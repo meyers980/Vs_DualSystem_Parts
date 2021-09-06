@@ -5,4 +5,4 @@ In this repository are several instruction marquees I either created or translat
 
 ![Image of Yaktocat](https://github.com/meyers980/Vs_DualSystem_Parts/blob/main/IMG_20210903_191601-rotated.jpg?raw=true)
 
-A full write-up of this restore can be found on my website: [link to Blog Article!](https://sergiostuff.com/2021/09/05/restoring-a-nintendo-red-tent-vs-dualsystem/)
+A full write-up of this restore can be found on my website: [SergioStuff.com Vs DualSystem Article!](https://sergiostuff.com/2021/09/05/restoring-a-nintendo-red-tent-vs-dualsystem/)
